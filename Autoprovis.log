@@ -1,0 +1,304 @@
+2019-12-27 15:56:28 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-27 15:56:28 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-27 15:56:30 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-27 15:56:30 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-27 15:56:30 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.203:1521:cmdcis]
+2019-12-27 15:56:30 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6, password=****}
+2019-12-27 15:56:30 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-27 15:56:30 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-27 15:56:31 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-27 15:56:31 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-27 15:58:01 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-27 15:58:02 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-27 15:58:03 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-27 15:58:04 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-27 15:58:04 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.203:1521:cmdcis]
+2019-12-27 15:58:04 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6, password=****}
+2019-12-27 15:58:04 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-27 15:58:04 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-27 15:58:05 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-27 15:58:05 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-27 15:59:04 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-27 15:59:04 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-27 15:59:06 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-27 15:59:06 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-27 15:59:06 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.203:1521:cmdcis]
+2019-12-27 15:59:06 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6, password=****}
+2019-12-27 15:59:06 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-27 15:59:06 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-27 15:59:07 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-27 15:59:08 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-27 15:59:09 INFO  HibernateUtil:21 - read config file from  hibernate-crm.cfg.xml
+2019-12-27 15:59:09 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-27 15:59:09 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.201:1521:cmdcis]
+2019-12-27 15:59:09 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6_UZB, password=****}
+2019-12-27 15:59:09 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-27 15:59:09 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-27 15:59:09 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-27 15:59:09 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-27 16:01:28 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-27 16:01:29 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-27 16:01:30 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-27 16:01:30 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-27 16:01:31 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.203:1521:cmdcis]
+2019-12-27 16:01:31 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6, password=****}
+2019-12-27 16:01:31 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-27 16:01:31 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-27 16:01:31 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-27 16:01:32 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-27 16:01:33 INFO  HibernateUtil:21 - read config file from  hibernate-crm.cfg.xml
+2019-12-27 16:01:33 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-27 16:01:33 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.201:1521:cmdcis]
+2019-12-27 16:01:33 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6_UZB, password=****}
+2019-12-27 16:01:33 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-27 16:01:33 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-27 16:01:33 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-27 16:01:33 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-27 16:35:00 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-27 16:35:01 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-27 16:35:02 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-27 16:35:02 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-27 16:35:02 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.203:1521:cmdcis]
+2019-12-27 16:35:02 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6, password=****}
+2019-12-27 16:35:02 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-27 16:35:02 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-27 16:35:03 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-27 16:35:04 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-27 16:36:36 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-27 16:36:37 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-27 16:36:38 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-27 16:36:39 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-27 16:36:39 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.203:1521:cmdcis]
+2019-12-27 16:36:39 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6, password=****}
+2019-12-27 16:36:39 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-27 16:36:39 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-27 16:36:40 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-27 16:36:40 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-27 16:36:41 INFO  HibernateUtil:21 - read config file from  hibernate-crm.cfg.xml
+2019-12-27 16:36:41 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-27 16:36:41 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.201:1521:cmdcis]
+2019-12-27 16:36:41 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6_UZB, password=****}
+2019-12-27 16:36:41 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-27 16:36:41 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-27 16:36:41 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-27 16:36:41 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-27 16:37:25 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-27 16:37:26 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-27 16:37:27 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-27 16:37:27 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-27 16:37:28 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.203:1521:cmdcis]
+2019-12-27 16:37:28 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6, password=****}
+2019-12-27 16:37:28 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-27 16:37:28 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-27 16:37:28 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-27 16:37:29 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-27 16:37:30 INFO  HibernateUtil:21 - read config file from  hibernate-crm.cfg.xml
+2019-12-27 16:37:30 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-27 16:37:30 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.201:1521:cmdcis]
+2019-12-27 16:37:30 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6_UZB, password=****}
+2019-12-27 16:37:30 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-27 16:37:30 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-27 16:37:30 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-27 16:37:30 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-27 16:40:10 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-27 16:40:11 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-27 16:40:12 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-27 16:40:13 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-27 16:40:13 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.203:1521:cmdcis]
+2019-12-27 16:40:13 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6, password=****}
+2019-12-27 16:40:13 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-27 16:40:13 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-27 16:40:14 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-27 16:40:15 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-27 16:40:15 INFO  HibernateUtil:21 - read config file from  hibernate-crm.cfg.xml
+2019-12-27 16:40:15 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-27 16:40:15 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.201:1521:cmdcis]
+2019-12-27 16:40:15 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6_UZB, password=****}
+2019-12-27 16:40:15 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-27 16:40:15 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-27 16:40:15 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-27 16:40:15 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-30 10:24:19 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-30 10:24:20 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-30 10:24:22 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-30 10:24:23 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-30 10:24:23 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.0.64:1521:ararat]
+2019-12-30 10:24:23 INFO  pooling:124 - HHH10001001: Connection properties: {user=tech_wso2, password=****}
+2019-12-30 10:24:23 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-30 10:24:23 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-30 10:24:25 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-30 10:24:26 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-30 10:24:27 WARN  SqlExceptionHelper:137 - SQL Error: 933, SQLState: 42000
+2019-12-30 10:24:27 ERROR SqlExceptionHelper:142 - ORA-00933: неверное завершение SQL-предложения
+
+2019-12-30 10:31:33 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-30 10:31:33 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-30 10:31:35 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-30 10:31:35 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-30 10:31:35 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.0.64:1521:ararat]
+2019-12-30 10:31:35 INFO  pooling:124 - HHH10001001: Connection properties: {user=tech_wso2, password=****}
+2019-12-30 10:31:35 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-30 10:31:35 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-30 10:31:36 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-30 10:31:37 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-30 10:31:38 WARN  SqlExceptionHelper:137 - SQL Error: 933, SQLState: 42000
+2019-12-30 10:31:38 ERROR SqlExceptionHelper:142 - ORA-00933: неверное завершение SQL-предложения
+
+2019-12-30 10:32:40 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-30 10:32:40 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-30 10:32:41 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-30 10:32:42 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-30 10:32:42 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.0.64:1521:ararat]
+2019-12-30 10:32:42 INFO  pooling:124 - HHH10001001: Connection properties: {user=tech_wso2, password=****}
+2019-12-30 10:32:42 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-30 10:32:42 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-30 10:32:43 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-30 10:32:44 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-30 10:32:44 WARN  SqlExceptionHelper:137 - SQL Error: 933, SQLState: 42000
+2019-12-30 10:32:44 ERROR SqlExceptionHelper:142 - ORA-00933: неверное завершение SQL-предложения
+
+2019-12-30 10:51:54 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-30 10:51:55 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-30 10:51:56 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-30 10:51:56 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-30 10:51:57 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.0.64:1521:ararat]
+2019-12-30 10:51:57 INFO  pooling:124 - HHH10001001: Connection properties: {user=tech_wso2, password=****}
+2019-12-30 10:51:57 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-30 10:51:57 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-30 10:51:57 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-30 10:51:59 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-30 10:52:45 INFO  HibernateUtil:21 - read config file from  hibernate-crm.cfg.xml
+2019-12-30 10:52:45 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-30 10:52:45 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.201:1521:cmdcis]
+2019-12-30 10:52:45 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6_UZB, password=****}
+2019-12-30 10:52:45 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-30 10:52:45 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-30 10:52:46 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-30 10:52:46 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-30 10:56:10 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-30 10:56:11 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-30 10:56:12 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-30 10:56:13 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-30 10:56:13 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.0.64:1521:ararat]
+2019-12-30 10:56:13 INFO  pooling:124 - HHH10001001: Connection properties: {user=tech_wso2, password=****}
+2019-12-30 10:56:13 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-30 10:56:13 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-30 10:56:14 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-30 10:56:15 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-30 10:58:32 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-30 10:58:33 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-30 10:58:34 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-30 10:58:34 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-30 10:58:34 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.0.64:1521:ararat]
+2019-12-30 10:58:34 INFO  pooling:124 - HHH10001001: Connection properties: {user=tech_wso2, password=****}
+2019-12-30 10:58:34 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-30 10:58:34 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-30 10:58:35 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-30 10:58:36 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-30 11:00:07 INFO  HibernateUtil:21 - read config file from  hibernate-crm.cfg.xml
+2019-12-30 11:00:07 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-30 11:00:07 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.201:1521:cmdcis]
+2019-12-30 11:00:07 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6_UZB, password=****}
+2019-12-30 11:00:07 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-30 11:00:07 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-30 11:00:08 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-30 11:00:08 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-30 11:07:24 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-30 11:07:25 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-30 11:07:26 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-30 11:07:26 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-30 11:07:27 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.0.64:1521:ararat]
+2019-12-30 11:07:27 INFO  pooling:124 - HHH10001001: Connection properties: {user=tech_wso2, password=****}
+2019-12-30 11:07:27 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-30 11:07:27 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-30 11:07:27 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-30 11:07:28 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-30 11:08:19 INFO  HibernateUtil:21 - read config file from  hibernate-crm.cfg.xml
+2019-12-30 11:08:19 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-30 11:08:19 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.201:1521:cmdcis]
+2019-12-30 11:08:19 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6_UZB, password=****}
+2019-12-30 11:08:19 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-30 11:08:19 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-30 11:08:19 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-30 11:08:19 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-30 11:08:19 WARN  SqlExceptionHelper:137 - SQL Error: 984, SQLState: 42000
+2019-12-30 11:08:19 ERROR SqlExceptionHelper:142 - ORA-00984: употребление столбца здесь недопустимо
+
+2019-12-30 11:39:07 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-30 11:39:08 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-30 11:39:09 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-30 11:39:09 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-30 11:39:10 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.0.64:1521:ararat]
+2019-12-30 11:39:10 INFO  pooling:124 - HHH10001001: Connection properties: {user=tech_wso2, password=****}
+2019-12-30 11:39:10 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-30 11:39:10 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-30 11:39:11 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-30 11:39:13 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-30 11:40:31 INFO  HibernateUtil:21 - read config file from  hibernate-crm.cfg.xml
+2019-12-30 11:40:31 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-30 11:40:31 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.201:1521:cmdcis]
+2019-12-30 11:40:31 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6_UZB, password=****}
+2019-12-30 11:40:31 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-30 11:40:31 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-30 11:40:31 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-30 11:40:31 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-30 12:13:17 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-30 12:13:17 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-30 12:13:19 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-30 12:13:20 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-30 12:13:20 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.0.64:1521:ararat]
+2019-12-30 12:13:20 INFO  pooling:124 - HHH10001001: Connection properties: {user=tech_wso2, password=****}
+2019-12-30 12:13:20 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-30 12:13:20 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-30 12:13:22 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-30 12:13:24 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-30 12:13:25 INFO  HibernateUtil:21 - read config file from  hibernate-crm.cfg.xml
+2019-12-30 12:13:25 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-30 12:13:25 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.201:1521:cmdcis]
+2019-12-30 12:13:25 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6_UZB, password=****}
+2019-12-30 12:13:25 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-30 12:13:25 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-30 12:13:25 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-30 12:13:25 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-30 12:13:25 WARN  SqlExceptionHelper:137 - SQL Error: 911, SQLState: 22019
+2019-12-30 12:13:25 ERROR SqlExceptionHelper:142 - ORA-00911: неверный символ
+
+2019-12-30 12:13:59 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-30 12:13:59 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-30 12:14:01 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-30 12:14:01 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-30 12:14:01 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.0.64:1521:ararat]
+2019-12-30 12:14:01 INFO  pooling:124 - HHH10001001: Connection properties: {user=tech_wso2, password=****}
+2019-12-30 12:14:01 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-30 12:14:01 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-30 12:14:02 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-30 12:14:03 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-30 12:14:03 INFO  HibernateUtil:21 - read config file from  hibernate-crm.cfg.xml
+2019-12-30 12:14:03 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-30 12:14:03 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.201:1521:cmdcis]
+2019-12-30 12:14:03 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6_UZB, password=****}
+2019-12-30 12:14:03 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-30 12:14:03 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-30 12:14:03 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-30 12:14:04 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-30 12:14:04 WARN  SqlExceptionHelper:137 - SQL Error: 911, SQLState: 22019
+2019-12-30 12:14:04 ERROR SqlExceptionHelper:142 - ORA-00911: неверный символ
+
+2019-12-30 12:16:33 INFO  HibernateUtil:21 - read config file from  hibernate-ararat.cfg.xml
+2019-12-30 12:16:33 INFO  Version:46 - HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-30 12:16:35 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-30 12:16:35 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-30 12:16:35 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.0.64:1521:ararat]
+2019-12-30 12:16:35 INFO  pooling:124 - HHH10001001: Connection properties: {user=tech_wso2, password=****}
+2019-12-30 12:16:35 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-30 12:16:36 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-30 12:16:36 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-30 12:16:37 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-30 12:16:38 INFO  HibernateUtil:21 - read config file from  hibernate-crm.cfg.xml
+2019-12-30 12:16:38 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-30 12:16:38 INFO  pooling:115 - HHH10001005: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@10.2.3.201:1521:cmdcis]
+2019-12-30 12:16:38 INFO  pooling:124 - HHH10001001: Connection properties: {user=REFDB6_UZB, password=****}
+2019-12-30 12:16:38 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-30 12:16:38 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-30 12:16:38 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.Oracle8iDialect
+2019-12-30 12:16:38 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
