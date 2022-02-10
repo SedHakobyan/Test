@@ -28,7 +28,7 @@
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
-            <version>5.4.10.Final</version>
+            <version>5.4.24.Final</version>
             <scope>system</scope>
             <systemPath>C:/Users/sedhakobyan/.m2/repository/hibernate-core-5.4.10.Final.jar</systemPath>
         </dependency>
